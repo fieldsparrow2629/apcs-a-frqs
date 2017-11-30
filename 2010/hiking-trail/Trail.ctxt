@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Trail
+comment1.params=markers
+comment1.target=Trail(int[])
+comment2.params=start\ end
+comment2.target=boolean\ isLevelTrailSegment(int,\ int)
+comment2.text=\r\ndetermines\ if\ the\ trail\ is\ level\ between\ a\ starting\ and\ ending\ index\r\ntrail\ is\ level\ if\ highes\ and\ lowest\ point\ have\ a\ diference\ of\ less\ than\ 11\r\n\r\n@param\ start\ the\ index\ to\ start\ checking\ if\ the\ trail\ is\ leve\r\n@param\ end\ the\ index\ of\ the\ trail\ where\ the\ function\ will\ stop\ checking\ if\ level\r\n@return\ returns\ true\ if\ it\ is\ level,\ false\ if\ it\ is\ not\r\n
+comment3.params=
+comment3.target=boolean\ isDifficult()
+comment3.text=\r\n\ determines\ if\ a\ trail\ is\ dificult\r\n\ counts\ the\ number\ of\ steep\ parts,\ if\ there\ is\ an\ increase\ of\ 30\ between\ 2\ inexes\r\n\ difcult\ if\ there\ are\ 3\ or\ more\ steep\ parts\r\n\r\n\ @return\ returns\ true\ if\ the\ trail\ is\ dificult\r\n
+numComments=4

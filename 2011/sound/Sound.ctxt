@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Sound
+comment0.text=\r\n\ frq-2011-2-sound\r\n\r\n\ @author\ Erik\ B.\r\n\ @version\ 11-14-17\r\n
+comment1.params=samples
+comment1.target=Sound(int[])
+comment2.params=limit
+comment2.target=int\ limitAmplitude(int)
+comment2.text=\r\n\ changs\ those\ values\ in\ this\ sound\ that\ hava\ an\ amp\ greater\ than\ limit\r\n\ values\ greater\ than\ limit\ are\ changed\ to\ limit\r\n\ values\ less\ than\ -limit\ are\ chagned\ to\ -limit\r\n\ \r\n\ @param\ limit\ the\ amplitude\ limit\r\n\ @return\ the\ number\ of\ values\ that\ his\ method\ changed\r\n
+comment3.params=
+comment3.target=void\ trimSilenceFromBeginning()
+comment3.text=\r\n\ removes\ all\ the\ zeros\ from\ the\ beginning\ of\ the\ array\r\n\ changes\ samples\ so\ that\ all\ the\ zeros\ are\ trim\ from\ the\ beginning\r\n\ \r\n
+comment4.params=
+comment4.target=void\ displayArray()
+numComments=5
