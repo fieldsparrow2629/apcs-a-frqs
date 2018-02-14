@@ -1,0 +1,8 @@
+List: 104343146621262
+Index of longest run: 8
+
+List: 044140520060126251252513
+Index of longest run: 1
+
+List: 05400606
+Index of longest run: 3
