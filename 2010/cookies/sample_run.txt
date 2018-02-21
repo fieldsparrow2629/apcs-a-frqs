@@ -1,0 +1,3 @@
+Number of Boxes: 11
+Removed: 4
+Number of Boxes: 7
