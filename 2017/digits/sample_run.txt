@@ -1,0 +1,4 @@
+Strictly Increasing
+1345: true
+153: false
+12344: false
