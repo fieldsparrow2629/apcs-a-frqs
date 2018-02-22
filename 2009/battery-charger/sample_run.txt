@@ -1,0 +1,5 @@
+Optimal Start Hour
+1 hour: 12
+2 hour: 23
+7 hour: 22
+30 hour: 23
