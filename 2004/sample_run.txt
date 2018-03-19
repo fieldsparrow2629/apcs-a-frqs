@@ -1,3 +1,0 @@
-Fido: bark
-Rex: bark bark
-Spot: meow
