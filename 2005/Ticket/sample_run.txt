@@ -1,0 +1,8 @@
+Number: 15
+     Price: $15.0 (Student ID required)
+Number: 53
+     Price: $20.0 (Student ID required)
+Number: 43
+     Price: $30.0
+Number: 12
+     Price: $40.0
