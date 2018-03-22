@@ -1,0 +1,9 @@
+Car1
+List price: 22500.0
+Purchase price: 24750.0
+
+Changed markup to $1000.00.
+
+Car1
+List price: 21000.0
+Purchase price: 23100.0
