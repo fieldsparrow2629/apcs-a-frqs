@@ -1,0 +1,3 @@
+Sum of arr1: 16
+The sum of each row of arr2D: {16,32,28,20}
+Mat1 is diverse: true
