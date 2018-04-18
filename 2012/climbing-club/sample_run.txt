@@ -1,0 +1,9 @@
+Solution A:
+John Rock:135
+Andy Rock:100
+Bill Rock:120
+
+Solution B:
+Andy Rock:100
+Bill Rock:120
+John Rock:135
